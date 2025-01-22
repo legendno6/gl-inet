@@ -1,5 +1,4 @@
 192.168.86.0/24
-nascar.com
 1password.com
 amazon.com
 amcplus.com
