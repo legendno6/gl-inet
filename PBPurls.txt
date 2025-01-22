@@ -1,4 +1,5 @@
 192.168.86.0/24
+blah.net
 1password.com
 amazon.com
 amcplus.com
