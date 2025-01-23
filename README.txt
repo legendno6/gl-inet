@@ -1,4 +1,4 @@
-cd C:\Users\mccar\OneDrive\Documents\git-repos\gl-inet
+cd C:\Users\[homedir]\OneDrive\Documents\git-repos\gl-inet
 
 # Get latest file
 git pull
