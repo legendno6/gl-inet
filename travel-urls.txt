@@ -8,6 +8,7 @@ amcplus.com
 apple.com
 audible.com
 bbcamerica.com
+bing.com
 cisco.com
 cisco-my.sharepoint.com
 dailywire.com
