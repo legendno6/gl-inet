@@ -20,6 +20,7 @@ itunes.com
 keurig.com
 live.com
 max.com
+meta.com
 nbcsports.com
 nclottery.com
 netflix.com
